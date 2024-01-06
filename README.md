@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watersavvy&label=Profile%20views&color=0e75b6&style=flat" alt="watersavvy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watersavvy" alt="watersavvy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/watersavvy" target="blank"><img src="https://img.shields.io/twitter/follow/watersavvy?logo=twitter&style=for-the-badge" alt="watersavvy" /></a> </p>
-
 - 🔭 I’m currently working on **a model for sorting images by color.**
 
 - 🌱 I’m currently learning **Pytorch for Computer Vision and Geopandas Martin Fleis's course.**
