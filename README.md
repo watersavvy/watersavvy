@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love walking in unfamiliar cities.**
 
+- 🌐 Please check out my <a href="https://docs.google.com/document/d/1W17YRqKwvPI159XDCAEJ_mE8qsTfRJQNT4_BgJy-ekA/edit?usp=sharing">**RESUME**</a>.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/watersavvy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="watersavvy" height="30" width="40" /></a>
