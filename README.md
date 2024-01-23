@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a model for sorting images by color.**
 
-- 🌱 I’m currently learning **Pytorch for Computer Vision and Geopandas Martin Fleis's course.**
+- 🌱 Learning **Pytorch for Computer Vision and Geopandas Martin Fleis's course.**
 
-- 👯 I’m looking to collaborate on **projects with locational features.**
+- 👯 Looking to collaborate on **projects with locational features.**
 
-- 💬 Ask me about **Midjourney and Pika Labs**
+- 💬 Ask me about **Midjourney and other generative imaging software.**
 
 - 📫 How to reach me **akepshire@gmail.com**
 
