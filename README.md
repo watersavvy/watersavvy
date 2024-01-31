@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love walking in unfamiliar cities.**
 
-- 🌐 Please check out my <a href="https://docs.google.com/document/d/1W17YRqKwvPI159XDCAEJ_mE8qsTfRJQNT4_BgJy-ekA/edit?usp=sharing">**RESUME**</a>.
+- 🌐 Please check out my <a href="https://docs.google.com/document/d/1MfE4MNSdbuiaAbx_qOJduNB19RyjKXkOV5RVyiOtSdQ/edit?usp=sharing">**RESUME**</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
